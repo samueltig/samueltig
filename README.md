@@ -11,8 +11,6 @@
 </div>
 <!-- Put the GIF FIRST so it floats to the right -->
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
-### 🛠️ Languages & Tools:
-## 🛠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
