@@ -11,7 +11,13 @@
 </div>
 <!-- Put the GIF FIRST so it floats to the right -->
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
-
+### 🛠️ Languages & Tools:
+<p align="left"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 ### 👨‍💻 About Me
 - 🔭 I’m currently building intelligent Web Applications
 - 🌱 I’m currently diving deeper into Artificial Intelligence and Machine Learning
