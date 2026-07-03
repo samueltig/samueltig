@@ -1,5 +1,10 @@
-## Hi the
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Samuel +Tigstu!+👋;Full+Stack+Developer;AI+Developer;building+web+Application;Always+learning+new+tech..." alt="Typing SVG" /></a>
+## Hi there 👋
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Samuel+Tigstu!+%F0%9F%91%8B;Full+Stack+Developer;AI+Developer;Building+Web+Applications;Always+learning+new+tech..." alt="Typing SVG" />
+  </a>
+</p>
 <!--
 **samueltig/samueltig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
