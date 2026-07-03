@@ -43,7 +43,7 @@
 <p align="left">
   <!-- Replace 'ORG_NAME' with your actual organization's GitHub name -->
   <a href="https://github.com/ORG_NAME">
-    <img src="https://github.com/ORG_NAME.png" width="60" style="border-radius: 50%; margin-right: 15px;" alt="Organization Name" title="Organization Name">
+    <img src="https://github.com/ORG_NAME.png" width="60" style="border-radius: 50%; margin-right: 15px;" alt="Organization Name" title=">
   </a>
 
   <!-- Example 1: Google (Just for demonstration, replace it!) -->
