@@ -34,14 +34,25 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltig&theme=radical" alt="GitHub Streak" />
 </div>
-### 📬 Connect with me:
+ 📬 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/samuel-tigistu-3060971a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/TigSamuel7190"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
- 🏆 GitHub Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samueltig&theme=radical&margin-w=15&margin-h=15&no-frame=true&v=1" alt="Samuel's Trophies" />
+🏢 Organizations & Communities
+<p align="left">
+  <!-- Replace 'ORG_NAME' with your actual organization's GitHub name -->
+  <a href="https://github.com/ORG_NAME">
+    <img src="https://github.com/ORG_NAME.png" width="60" style="border-radius: 50%; margin-right: 15px;" alt="Organization Name" title="Organization Name">
   </a>
-</div>
+
+  <!-- Example 1: Google (Just for demonstration, replace it!) -->
+  <a href="https://github.com/google">
+    <img src="https://github.com/google.png" width="60" style="border-radius: 50%; margin-right: 15px;" alt="Google" title="Google">
+  </a>
+  
+  <!-- Example 2: Microsoft -->
+  <a href="https://github.com/microsoft">
+    <img src="https://github.com/microsoft.png" width="60" style="border-radius: 50%; margin-right: 15px;" alt="Microsoft" title="Microsoft">
+  </a>
+</p>
