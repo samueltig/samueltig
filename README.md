@@ -34,3 +34,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltig&theme=radical" alt="GitHub Streak" />
 </div>
+### 📬 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/samuel-tigistu-3060971a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/TigSamuel7190"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
