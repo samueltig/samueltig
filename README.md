@@ -9,6 +9,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Building+intelligent+Web+Applications;Turning+Ideas+into+Reality;Full+Stack+Developer;AI+Developer;Always+learning+new+tech..." alt="Typing SVG" />
   </a>
 </div>
+<!-- Put the GIF FIRST so it floats to the right -->
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
+
+### 👨‍💻 About Me
+- 🔭 I’m currently building intelligent Web Applications
+- 🌱 I’m currently diving deeper into Artificial Intelligence and Machine Learning
+- ⚡ Fun fact: I turn coffee into code!
 <!--
 **samueltig/samueltig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
