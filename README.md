@@ -56,3 +56,16 @@
     <img src="https://github.com/microsoft.png" width="60" style="border-radius: 50%; margin-right: 15px;" alt="Microsoft" title="Microsoft">
   </a>
 </p>
+<!-- Replace YOUR_GIF_URL with the GIF we picked earlier! -->
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
+
+### 👨‍💻 About Me
+
+Welcome to my GitHub! I am **Samuel Tigstu**, a passionate developer who loves bridging the gap between Artificial Intelligence and modern Web Development. 
+
+- 🔭 **I’m currently working on:** Building intelligent, scalable Web Applications.
+- 🌱 **I’m currently learning:** Advanced AI integrations and modern Full-Stack architectures.
+- 👯 **I’m looking to collaborate on:** Open-source AI projects and innovative web tools.
+- 💬 **Ask me about:** React, Python, Machine Learning, and turning ideas into reality.
+- 📫 **How to reach me:** [Insert your LinkedIn or Email link here]
+- ⚡ **Fun fact:** I can turn endless cups of coffee into bug-free code! ☕
