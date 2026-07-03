@@ -6,7 +6,7 @@
 
   <!-- Neon Colored Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Building+intelligent+Web+Applications;Turning+Ideas+into+Reality;Always+learning+new+tech..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Building+intelligent+Web+Applications;Turning+Ideas+into+Reality;Full+Stack+Developer;AI+Developer;Always+learning+new+tech..." alt="Typing SVG" />
   </a>
 </div>
 <!--
