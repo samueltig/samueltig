@@ -32,7 +32,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samueltig&show_icons=true&theme=radical&cache_seconds=86400&v=1" alt="Samuel's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltig&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Samuel's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltig&theme=radical" alt="GitHub Streak" />
 </div>
