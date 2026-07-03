@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Samuel%20Tigstu&fontSize=80&animation=twinkling&fontAlignY=40&desc=AI%20&%20Full%20Stack%20Developer&descAlignY=65&descSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Samuel%20Tigstu&fontSize=80&animation=twinkling&fontAlignY=40&desc=%20&%20Full%20Stack%20Developer&descAlignY=65&descSize=25&fontColor=ffffff" />
 
   <br>
 
