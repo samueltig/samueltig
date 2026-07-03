@@ -67,5 +67,5 @@ Welcome to my GitHub! I am **Samuel Tigstu**, a passionate developer who loves b
 - 🌱 **I’m currently learning:** Advanced AI integrations and modern Full-Stack architectures.
 - 👯 **I’m looking to collaborate on:** Open-source AI projects and innovative web tools.
 - 💬 **Ask me about:** React, Python, Machine Learning, and turning ideas into reality.
-- 📫 **How to reach me:** [Insert your LinkedIn or Email link here]
+- 📫 **How to reach me:samtig1616@gmail.com
 - ⚡ **Fun fact:** I can turn endless cups of coffee into bug-free code! ☕
