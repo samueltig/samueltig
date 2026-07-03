@@ -39,9 +39,9 @@
   <a href="https://linkedin.com/in/samuel-tigistu-3060971a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/TigSamuel7190"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-### 🏆 GitHub Achievements
+ 🏆 GitHub Achievements
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samueltig&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Samuel's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=samueltig&theme=radical&margin-w=15&margin-h=15&no-frame=true&v=1" alt="Samuel's Trophies" />
   </a>
 </div>
